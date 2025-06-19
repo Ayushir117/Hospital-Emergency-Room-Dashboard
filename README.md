@@ -1,7 +1,5 @@
 # Hospital-Emergency-Room-Dashboard
 
-# Hospital Emergency Room Dashboard
-
 A comprehensive Power BI analytics solution for hospital emergency room operations, providing real-time insights into patient flow, wait times, satisfaction scores, and departmental performance.
 
 ## 📊 Project Overview
